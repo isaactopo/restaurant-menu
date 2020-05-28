@@ -19,7 +19,7 @@ git clone https://github.com/isaactopo/restaurant-menu.git
 On the ```index.html``` you will find a list with the links, I have left a directory ```downloads``` to include the food menus you need, the format is up to you [PDF, JPG ...]
 
 ```html
- <ul class="menu">
+<ul class="menu">
     <li>
         <a href="downloads/burgers.pdf">
             BURGERS
