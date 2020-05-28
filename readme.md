@@ -2,6 +2,8 @@
 
 With the COVID-19 many of our clients in the catering sector have asked us for a quick solution for their restaurant menus. The QR is back in fashion, so no one touches the food menu and instead a QR code is scanned with the mobile that takes you to a menu index. The restaurants have menus in PDF/JPG format, those are the ones that we will link to this index and… Voilà!
 
+You can see a demo [here ⟶](https://isaactopo.github.io/restaurant-menu/)
+
 ---
 
 ![Restaurant Menu Index](shot.jpg "Quick n' Dirty Restaurant Menu Index")
@@ -11,7 +13,7 @@ With the COVID-19 many of our clients in the catering sector have asked us for a
 
 Download or clone the repo into an empty folder
 ```
-git clone git@github.com:
+git clone https://github.com/isaactopo/restaurant-menu.git restaurant-menu
 ```
 
 On the ```index.html``` you will find a list with the links, I have left a directory ```downloads``` to include the food menus you need, the format is up to you [PDF, JPG ...]
@@ -44,4 +46,4 @@ In ```assets/css/style.css``` you have the basic styles with some CSS variables 
 }
 ````
 
-You can see a demo [here]()
+You can see a demo [here](https://isaactopo.github.io/restaurant-menu/)
