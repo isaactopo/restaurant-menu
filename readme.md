@@ -1,6 +1,6 @@
 # Quick and Easy Restaurant Menu Index
 
-With the COVID-19 many of our clients in the catering sector have asked us for a quick solution for their restaurant menus. The QR is back in fashion, so no one touches the food menu and instead a QR code is scanned with the mobile that takes you to a menu index. The restaurants have menus in PDF/JPG format, those are the ones that we will link to this index and… Voilà!
+With the COVID-19 many of our clients in the catering sector have asked us for a quick solution for their restaurant menus. The QR is back in fashion, so no one touches the food menu and instead a QR code is scanned with a phone that takes you to a menu index. The restaurants have menus in PDF/JPG format, those are the ones that we will link to this index and… Voilà!
 
 You can see a demo [here ⟶](https://isaactopo.github.io/restaurant-menu/)
 
