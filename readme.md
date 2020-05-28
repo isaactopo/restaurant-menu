@@ -11,9 +11,9 @@ You can see a demo [here ⟶](https://isaactopo.github.io/restaurant-menu/)
 
 ## Instructions
 
-Download or clone the repo into an empty folder
+Download or clone the repo:
 ```
-git clone https://github.com/isaactopo/restaurant-menu.git restaurant-menu
+git clone https://github.com/isaactopo/restaurant-menu.git
 ```
 
 On the ```index.html``` you will find a list with the links, I have left a directory ```downloads``` to include the food menus you need, the format is up to you [PDF, JPG ...]
@@ -29,7 +29,7 @@ On the ```index.html``` you will find a list with the links, I have left a direc
 </ul>
 ```
 
-Each anchor has a label ```<em>` `` to indicate the language of the food menu which is linked to.
+Each anchor has a label ```<em>``` to indicate the language of the food menu which is linked to.
 In ```assets/css/style.css``` you have the basic styles with some CSS variables to change the colors and adapt it to the branding of your restaurant. You can change them within
 
 
